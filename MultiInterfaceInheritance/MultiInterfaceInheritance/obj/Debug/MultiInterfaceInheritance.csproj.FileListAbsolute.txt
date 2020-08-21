@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\MultiInterfaceInheritance\MultiInterfaceInheritance\bin\Debug\MultiInterfaceInheritance.exe.config
+C:\Users\Administrator\source\repos\MultiInterfaceInheritance\MultiInterfaceInheritance\bin\Debug\MultiInterfaceInheritance.exe
+C:\Users\Administrator\source\repos\MultiInterfaceInheritance\MultiInterfaceInheritance\bin\Debug\MultiInterfaceInheritance.pdb
+C:\Users\Administrator\source\repos\MultiInterfaceInheritance\MultiInterfaceInheritance\obj\Debug\MultiInterfaceInheritance.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MultiInterfaceInheritance\MultiInterfaceInheritance\obj\Debug\MultiInterfaceInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MultiInterfaceInheritance\MultiInterfaceInheritance\obj\Debug\MultiInterfaceInheritance.exe
+C:\Users\Administrator\source\repos\MultiInterfaceInheritance\MultiInterfaceInheritance\obj\Debug\MultiInterfaceInheritance.pdb
