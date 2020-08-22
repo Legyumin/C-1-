@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\netcoreapp3.1\PropertiesInAbstractClass.exe
+C:\Users\Administrator\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\netcoreapp3.1\PropertiesInAbstractClass.deps.json
+C:\Users\Administrator\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\netcoreapp3.1\PropertiesInAbstractClass.runtimeconfig.json
+C:\Users\Administrator\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\netcoreapp3.1\PropertiesInAbstractClass.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\netcoreapp3.1\PropertiesInAbstractClass.dll
+C:\Users\Administrator\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\bin\Debug\netcoreapp3.1\PropertiesInAbstractClass.pdb
+C:\Users\Administrator\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\netcoreapp3.1\PropertiesInAbstractClass.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\netcoreapp3.1\PropertiesInAbstractClass.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\netcoreapp3.1\PropertiesInAbstractClass.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\netcoreapp3.1\PropertiesInAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\netcoreapp3.1\PropertiesInAbstractClass.dll
+C:\Users\Administrator\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\netcoreapp3.1\PropertiesInAbstractClass.pdb
+C:\Users\Administrator\source\repos\PropertiesInAbstractClass\PropertiesInAbstractClass\obj\Debug\netcoreapp3.1\PropertiesInAbstractClass.genruntimeconfig.cache

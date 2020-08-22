@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\AnomymousType\AnomymousType\bin\Debug\netcoreapp3.1\AnomymousType.exe
+C:\Users\Administrator\source\repos\AnomymousType\AnomymousType\bin\Debug\netcoreapp3.1\AnomymousType.deps.json
+C:\Users\Administrator\source\repos\AnomymousType\AnomymousType\bin\Debug\netcoreapp3.1\AnomymousType.runtimeconfig.json
+C:\Users\Administrator\source\repos\AnomymousType\AnomymousType\bin\Debug\netcoreapp3.1\AnomymousType.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\AnomymousType\AnomymousType\bin\Debug\netcoreapp3.1\AnomymousType.dll
+C:\Users\Administrator\source\repos\AnomymousType\AnomymousType\bin\Debug\netcoreapp3.1\AnomymousType.pdb
+C:\Users\Administrator\source\repos\AnomymousType\AnomymousType\obj\Debug\netcoreapp3.1\AnomymousType.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AnomymousType\AnomymousType\obj\Debug\netcoreapp3.1\AnomymousType.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AnomymousType\AnomymousType\obj\Debug\netcoreapp3.1\AnomymousType.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AnomymousType\AnomymousType\obj\Debug\netcoreapp3.1\AnomymousType.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AnomymousType\AnomymousType\obj\Debug\netcoreapp3.1\AnomymousType.dll
+C:\Users\Administrator\source\repos\AnomymousType\AnomymousType\obj\Debug\netcoreapp3.1\AnomymousType.pdb
+C:\Users\Administrator\source\repos\AnomymousType\AnomymousType\obj\Debug\netcoreapp3.1\AnomymousType.genruntimeconfig.cache

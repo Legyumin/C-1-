@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\PropertiesInInterface\PropertiesInInterface\bin\Debug\netcoreapp3.1\PropertiesInInterface.exe
+C:\Users\Administrator\source\repos\PropertiesInInterface\PropertiesInInterface\bin\Debug\netcoreapp3.1\PropertiesInInterface.deps.json
+C:\Users\Administrator\source\repos\PropertiesInInterface\PropertiesInInterface\bin\Debug\netcoreapp3.1\PropertiesInInterface.runtimeconfig.json
+C:\Users\Administrator\source\repos\PropertiesInInterface\PropertiesInInterface\bin\Debug\netcoreapp3.1\PropertiesInInterface.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\PropertiesInInterface\PropertiesInInterface\bin\Debug\netcoreapp3.1\PropertiesInInterface.dll
+C:\Users\Administrator\source\repos\PropertiesInInterface\PropertiesInInterface\bin\Debug\netcoreapp3.1\PropertiesInInterface.pdb
+C:\Users\Administrator\source\repos\PropertiesInInterface\PropertiesInInterface\obj\Debug\netcoreapp3.1\PropertiesInInterface.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PropertiesInInterface\PropertiesInInterface\obj\Debug\netcoreapp3.1\PropertiesInInterface.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PropertiesInInterface\PropertiesInInterface\obj\Debug\netcoreapp3.1\PropertiesInInterface.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PropertiesInInterface\PropertiesInInterface\obj\Debug\netcoreapp3.1\PropertiesInInterface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PropertiesInInterface\PropertiesInInterface\obj\Debug\netcoreapp3.1\PropertiesInInterface.dll
+C:\Users\Administrator\source\repos\PropertiesInInterface\PropertiesInInterface\obj\Debug\netcoreapp3.1\PropertiesInInterface.pdb
+C:\Users\Administrator\source\repos\PropertiesInInterface\PropertiesInInterface\obj\Debug\netcoreapp3.1\PropertiesInInterface.genruntimeconfig.cache
