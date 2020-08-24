@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\UsingHashtable\UsingHashtable\bin\Debug\netcoreapp3.1\UsingHashtable.exe
+C:\Users\Administrator\source\repos\UsingHashtable\UsingHashtable\bin\Debug\netcoreapp3.1\UsingHashtable.deps.json
+C:\Users\Administrator\source\repos\UsingHashtable\UsingHashtable\bin\Debug\netcoreapp3.1\UsingHashtable.runtimeconfig.json
+C:\Users\Administrator\source\repos\UsingHashtable\UsingHashtable\bin\Debug\netcoreapp3.1\UsingHashtable.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\UsingHashtable\UsingHashtable\bin\Debug\netcoreapp3.1\UsingHashtable.dll
+C:\Users\Administrator\source\repos\UsingHashtable\UsingHashtable\bin\Debug\netcoreapp3.1\UsingHashtable.pdb
+C:\Users\Administrator\source\repos\UsingHashtable\UsingHashtable\obj\Debug\netcoreapp3.1\UsingHashtable.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\UsingHashtable\UsingHashtable\obj\Debug\netcoreapp3.1\UsingHashtable.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\UsingHashtable\UsingHashtable\obj\Debug\netcoreapp3.1\UsingHashtable.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\UsingHashtable\UsingHashtable\obj\Debug\netcoreapp3.1\UsingHashtable.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\UsingHashtable\UsingHashtable\obj\Debug\netcoreapp3.1\UsingHashtable.dll
+C:\Users\Administrator\source\repos\UsingHashtable\UsingHashtable\obj\Debug\netcoreapp3.1\UsingHashtable.pdb
+C:\Users\Administrator\source\repos\UsingHashtable\UsingHashtable\obj\Debug\netcoreapp3.1\UsingHashtable.genruntimeconfig.cache
