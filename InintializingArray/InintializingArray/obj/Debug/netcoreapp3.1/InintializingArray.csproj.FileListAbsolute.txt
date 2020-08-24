@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\InintializingArray\InintializingArray\bin\Debug\netcoreapp3.1\InintializingArray.exe
+C:\Users\Administrator\source\repos\InintializingArray\InintializingArray\bin\Debug\netcoreapp3.1\InintializingArray.deps.json
+C:\Users\Administrator\source\repos\InintializingArray\InintializingArray\bin\Debug\netcoreapp3.1\InintializingArray.runtimeconfig.json
+C:\Users\Administrator\source\repos\InintializingArray\InintializingArray\bin\Debug\netcoreapp3.1\InintializingArray.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\InintializingArray\InintializingArray\bin\Debug\netcoreapp3.1\InintializingArray.dll
+C:\Users\Administrator\source\repos\InintializingArray\InintializingArray\bin\Debug\netcoreapp3.1\InintializingArray.pdb
+C:\Users\Administrator\source\repos\InintializingArray\InintializingArray\obj\Debug\netcoreapp3.1\InintializingArray.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\InintializingArray\InintializingArray\obj\Debug\netcoreapp3.1\InintializingArray.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\InintializingArray\InintializingArray\obj\Debug\netcoreapp3.1\InintializingArray.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\InintializingArray\InintializingArray\obj\Debug\netcoreapp3.1\InintializingArray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\InintializingArray\InintializingArray\obj\Debug\netcoreapp3.1\InintializingArray.dll
+C:\Users\Administrator\source\repos\InintializingArray\InintializingArray\obj\Debug\netcoreapp3.1\InintializingArray.pdb
+C:\Users\Administrator\source\repos\InintializingArray\InintializingArray\obj\Debug\netcoreapp3.1\InintializingArray.genruntimeconfig.cache
