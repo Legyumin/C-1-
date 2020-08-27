@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\bin\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.exe
+C:\Users\Administrator\source\repos\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\bin\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.deps.json
+C:\Users\Administrator\source\repos\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\bin\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\bin\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\bin\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.dll
+C:\Users\Administrator\source\repos\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\bin\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.pdb
+C:\Users\Administrator\source\repos\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.dll
+C:\Users\Administrator\source\repos\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.pdb
+C:\Users\Administrator\source\repos\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConstraintsOnTypeParameters\ConstraintsOnTypeParameters\obj\Debug\netcoreapp3.1\ConstraintsOnTypeParameters.csprojAssemblyReference.cache
