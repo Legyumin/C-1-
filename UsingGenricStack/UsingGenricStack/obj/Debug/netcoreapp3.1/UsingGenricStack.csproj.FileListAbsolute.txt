@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\UsingGenricStack\UsingGenricStack\bin\Debug\netcoreapp3.1\UsingGenricStack.exe
+C:\Users\Administrator\source\repos\UsingGenricStack\UsingGenricStack\bin\Debug\netcoreapp3.1\UsingGenricStack.deps.json
+C:\Users\Administrator\source\repos\UsingGenricStack\UsingGenricStack\bin\Debug\netcoreapp3.1\UsingGenricStack.runtimeconfig.json
+C:\Users\Administrator\source\repos\UsingGenricStack\UsingGenricStack\bin\Debug\netcoreapp3.1\UsingGenricStack.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\UsingGenricStack\UsingGenricStack\bin\Debug\netcoreapp3.1\UsingGenricStack.dll
+C:\Users\Administrator\source\repos\UsingGenricStack\UsingGenricStack\bin\Debug\netcoreapp3.1\UsingGenricStack.pdb
+C:\Users\Administrator\source\repos\UsingGenricStack\UsingGenricStack\obj\Debug\netcoreapp3.1\UsingGenricStack.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\UsingGenricStack\UsingGenricStack\obj\Debug\netcoreapp3.1\UsingGenricStack.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\UsingGenricStack\UsingGenricStack\obj\Debug\netcoreapp3.1\UsingGenricStack.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\UsingGenricStack\UsingGenricStack\obj\Debug\netcoreapp3.1\UsingGenricStack.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\UsingGenricStack\UsingGenricStack\obj\Debug\netcoreapp3.1\UsingGenricStack.dll
+C:\Users\Administrator\source\repos\UsingGenricStack\UsingGenricStack\obj\Debug\netcoreapp3.1\UsingGenricStack.pdb
+C:\Users\Administrator\source\repos\UsingGenricStack\UsingGenricStack\obj\Debug\netcoreapp3.1\UsingGenricStack.genruntimeconfig.cache
