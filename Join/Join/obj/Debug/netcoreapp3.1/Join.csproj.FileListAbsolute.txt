@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Join\Join\bin\Debug\netcoreapp3.1\Join.exe
+C:\Users\Administrator\source\repos\Join\Join\bin\Debug\netcoreapp3.1\Join.deps.json
+C:\Users\Administrator\source\repos\Join\Join\bin\Debug\netcoreapp3.1\Join.runtimeconfig.json
+C:\Users\Administrator\source\repos\Join\Join\bin\Debug\netcoreapp3.1\Join.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Join\Join\bin\Debug\netcoreapp3.1\Join.dll
+C:\Users\Administrator\source\repos\Join\Join\bin\Debug\netcoreapp3.1\Join.pdb
+C:\Users\Administrator\source\repos\Join\Join\obj\Debug\netcoreapp3.1\Join.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Join\Join\obj\Debug\netcoreapp3.1\Join.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Join\Join\obj\Debug\netcoreapp3.1\Join.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Join\Join\obj\Debug\netcoreapp3.1\Join.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Join\Join\obj\Debug\netcoreapp3.1\Join.dll
+C:\Users\Administrator\source\repos\Join\Join\obj\Debug\netcoreapp3.1\Join.pdb
+C:\Users\Administrator\source\repos\Join\Join\obj\Debug\netcoreapp3.1\Join.genruntimeconfig.cache

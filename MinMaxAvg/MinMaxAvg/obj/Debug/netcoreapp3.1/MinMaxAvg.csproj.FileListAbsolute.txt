@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\MinMaxAvg\MinMaxAvg\bin\Debug\netcoreapp3.1\MinMaxAvg.exe
+C:\Users\Administrator\source\repos\MinMaxAvg\MinMaxAvg\bin\Debug\netcoreapp3.1\MinMaxAvg.deps.json
+C:\Users\Administrator\source\repos\MinMaxAvg\MinMaxAvg\bin\Debug\netcoreapp3.1\MinMaxAvg.runtimeconfig.json
+C:\Users\Administrator\source\repos\MinMaxAvg\MinMaxAvg\bin\Debug\netcoreapp3.1\MinMaxAvg.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\MinMaxAvg\MinMaxAvg\bin\Debug\netcoreapp3.1\MinMaxAvg.dll
+C:\Users\Administrator\source\repos\MinMaxAvg\MinMaxAvg\bin\Debug\netcoreapp3.1\MinMaxAvg.pdb
+C:\Users\Administrator\source\repos\MinMaxAvg\MinMaxAvg\obj\Debug\netcoreapp3.1\MinMaxAvg.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MinMaxAvg\MinMaxAvg\obj\Debug\netcoreapp3.1\MinMaxAvg.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MinMaxAvg\MinMaxAvg\obj\Debug\netcoreapp3.1\MinMaxAvg.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MinMaxAvg\MinMaxAvg\obj\Debug\netcoreapp3.1\MinMaxAvg.dll
+C:\Users\Administrator\source\repos\MinMaxAvg\MinMaxAvg\obj\Debug\netcoreapp3.1\MinMaxAvg.pdb
+C:\Users\Administrator\source\repos\MinMaxAvg\MinMaxAvg\obj\Debug\netcoreapp3.1\MinMaxAvg.genruntimeconfig.cache
