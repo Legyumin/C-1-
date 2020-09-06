@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\BinaryFile\BinaryFile\bin\Debug\netcoreapp3.1\BinaryFile.exe
+C:\Users\Administrator\source\repos\BinaryFile\BinaryFile\bin\Debug\netcoreapp3.1\BinaryFile.deps.json
+C:\Users\Administrator\source\repos\BinaryFile\BinaryFile\bin\Debug\netcoreapp3.1\BinaryFile.runtimeconfig.json
+C:\Users\Administrator\source\repos\BinaryFile\BinaryFile\bin\Debug\netcoreapp3.1\BinaryFile.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\BinaryFile\BinaryFile\bin\Debug\netcoreapp3.1\BinaryFile.dll
+C:\Users\Administrator\source\repos\BinaryFile\BinaryFile\bin\Debug\netcoreapp3.1\BinaryFile.pdb
+C:\Users\Administrator\source\repos\BinaryFile\BinaryFile\obj\Debug\netcoreapp3.1\BinaryFile.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\BinaryFile\BinaryFile\obj\Debug\netcoreapp3.1\BinaryFile.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\BinaryFile\BinaryFile\obj\Debug\netcoreapp3.1\BinaryFile.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\BinaryFile\BinaryFile\obj\Debug\netcoreapp3.1\BinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BinaryFile\BinaryFile\obj\Debug\netcoreapp3.1\BinaryFile.dll
+C:\Users\Administrator\source\repos\BinaryFile\BinaryFile\obj\Debug\netcoreapp3.1\BinaryFile.pdb
+C:\Users\Administrator\source\repos\BinaryFile\BinaryFile\obj\Debug\netcoreapp3.1\BinaryFile.genruntimeconfig.cache

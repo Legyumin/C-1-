@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\SerialiingCollection\SerialiingCollection\bin\Debug\netcoreapp3.1\SerialiingCollection.exe
+C:\Users\Administrator\source\repos\SerialiingCollection\SerialiingCollection\bin\Debug\netcoreapp3.1\SerialiingCollection.deps.json
+C:\Users\Administrator\source\repos\SerialiingCollection\SerialiingCollection\bin\Debug\netcoreapp3.1\SerialiingCollection.runtimeconfig.json
+C:\Users\Administrator\source\repos\SerialiingCollection\SerialiingCollection\bin\Debug\netcoreapp3.1\SerialiingCollection.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\SerialiingCollection\SerialiingCollection\bin\Debug\netcoreapp3.1\SerialiingCollection.dll
+C:\Users\Administrator\source\repos\SerialiingCollection\SerialiingCollection\bin\Debug\netcoreapp3.1\SerialiingCollection.pdb
+C:\Users\Administrator\source\repos\SerialiingCollection\SerialiingCollection\obj\Debug\netcoreapp3.1\SerialiingCollection.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SerialiingCollection\SerialiingCollection\obj\Debug\netcoreapp3.1\SerialiingCollection.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SerialiingCollection\SerialiingCollection\obj\Debug\netcoreapp3.1\SerialiingCollection.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SerialiingCollection\SerialiingCollection\obj\Debug\netcoreapp3.1\SerialiingCollection.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SerialiingCollection\SerialiingCollection\obj\Debug\netcoreapp3.1\SerialiingCollection.dll
+C:\Users\Administrator\source\repos\SerialiingCollection\SerialiingCollection\obj\Debug\netcoreapp3.1\SerialiingCollection.pdb
+C:\Users\Administrator\source\repos\SerialiingCollection\SerialiingCollection\obj\Debug\netcoreapp3.1\SerialiingCollection.genruntimeconfig.cache
