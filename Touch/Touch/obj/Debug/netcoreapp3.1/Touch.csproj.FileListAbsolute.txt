@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Touch\Touch\bin\Debug\netcoreapp3.1\Touch.exe
+C:\Users\Administrator\source\repos\Touch\Touch\bin\Debug\netcoreapp3.1\Touch.deps.json
+C:\Users\Administrator\source\repos\Touch\Touch\bin\Debug\netcoreapp3.1\Touch.runtimeconfig.json
+C:\Users\Administrator\source\repos\Touch\Touch\bin\Debug\netcoreapp3.1\Touch.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Touch\Touch\bin\Debug\netcoreapp3.1\Touch.dll
+C:\Users\Administrator\source\repos\Touch\Touch\bin\Debug\netcoreapp3.1\Touch.pdb
+C:\Users\Administrator\source\repos\Touch\Touch\obj\Debug\netcoreapp3.1\Touch.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Touch\Touch\obj\Debug\netcoreapp3.1\Touch.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Touch\Touch\obj\Debug\netcoreapp3.1\Touch.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Touch\Touch\obj\Debug\netcoreapp3.1\Touch.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Touch\Touch\obj\Debug\netcoreapp3.1\Touch.dll
+C:\Users\Administrator\source\repos\Touch\Touch\obj\Debug\netcoreapp3.1\Touch.pdb
+C:\Users\Administrator\source\repos\Touch\Touch\obj\Debug\netcoreapp3.1\Touch.genruntimeconfig.cache
