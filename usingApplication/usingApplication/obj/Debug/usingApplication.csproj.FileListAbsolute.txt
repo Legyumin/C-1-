@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\usingApplication\usingApplication\bin\Debug\usingApplication.exe.config
+C:\Users\user\source\repos\usingApplication\usingApplication\bin\Debug\usingApplication.exe
+C:\Users\user\source\repos\usingApplication\usingApplication\bin\Debug\usingApplication.pdb
+C:\Users\user\source\repos\usingApplication\usingApplication\obj\Debug\usingApplication.csprojAssemblyReference.cache
+C:\Users\user\source\repos\usingApplication\usingApplication\obj\Debug\usingApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\usingApplication\usingApplication\obj\Debug\usingApplication.exe
+C:\Users\user\source\repos\usingApplication\usingApplication\obj\Debug\usingApplication.pdb
